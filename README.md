@@ -1,7 +1,7 @@
-#Simple Django Blog
+# Simple Django Blog
 >Hello everyone,I was a programman for  two years and a half
-##Properties of the project
-- ##Simple##
+## Properties of the project
+- ## Simple ##
 - Fast
 - Light
 - Small capacity
