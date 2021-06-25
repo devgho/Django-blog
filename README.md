@@ -9,5 +9,4 @@
 print('The blog support markdown')
 print('Post need to admin page')
 print('And need to register user')
-python -m manage.py createsuperuser
 ```
