@@ -7,11 +7,11 @@
 - Small capacity
 ```python
 print('The blog support markdown')
-print('Post need to admin page')
-print('And need to register user')
+print('Post in admin page')
 ```
 # How to use
-**Ensure that your python version is up to 3.6**
+**Ensure that your python version is up to 3.6**  
+
 *this project use django internal admin to manage blog*
 1. pip install -r requirement.txt
 2. python manage.py migrate
@@ -19,5 +19,6 @@ print('And need to register user')
 4. if you run everything in local, you need to change debug false to true and delete gornicore on installed apps in setting
 5. python manage.py runserver
 
-***
-*If you run in server, please self-configure nginx, proxy, gornicore, *
+***  
+
+*If you run in server, please self-configure nginx, proxy, gornicore or something*
